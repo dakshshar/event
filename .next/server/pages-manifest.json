@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/events/edit/[id]": "pages/events/edit/[id].js",
+  "/": "pages/index.js",
+  "/events/[id]": "pages/events/[id].js",
+  "/events/tickets/[id]": "pages/events/tickets/[id].js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js"
+}
