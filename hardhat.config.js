@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     hardhat: {},
     localhost: {
-      url: 'http://127.0.0.1:8545',
+      url: 'https://virtual.gnosis.rpc.tenderly.co/cb2a714f-71b5-4deb-8fda-9c888cda4d47',
     },
     bitfinity: {
       url: 'https://testnet.bitfinity.network',

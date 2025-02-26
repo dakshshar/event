@@ -3,6 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/events/tickets/[id]": "pages/events/tickets/[id].js",
-  "/events/[id]": "pages/events/[id].js"
+  "/events/tickets/[id]": "pages/events/tickets/[id].js"
 }
